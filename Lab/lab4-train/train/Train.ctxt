@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Train
+comment1.params=numberOfCars
+comment1.target=Train(int)
+comment2.params=car
+comment2.target=void\ addCar(Car)
+comment3.params=
+comment3.target=java.util.ArrayList\ cars()
+comment4.params=requestedClass
+comment4.target=boolean\ issueTicket(boolean)
+comment5.params=id\ seatNo
+comment5.target=boolean\ cancelTicket(int,\ int)
+numComments=6
